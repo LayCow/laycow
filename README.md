@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ## Projects
+<!--
 - [geemap](https://geemap.org)
+-->
 
 ## Demos
 This is a moving Cow
